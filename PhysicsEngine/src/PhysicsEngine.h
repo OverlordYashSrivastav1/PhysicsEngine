@@ -4,6 +4,7 @@
 
 //used by pi applications
 #include "PhysicsEngine/Application.h"
+#include "PhysicsEngine/Log.h"
 
 
 
